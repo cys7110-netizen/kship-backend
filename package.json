@@ -1,9 +1,0 @@
-{
-  "name": "kship-backend",
-  "version": "1.0.0",
-  "description": "韓集集運 - Email 驗證碼 API",
-  "type": "module",
-  "dependencies": {
-    "resend": "^4.0.0"
-  }
-}
